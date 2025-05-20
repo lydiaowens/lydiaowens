@@ -22,6 +22,12 @@ My current work as a student researcher at the University of Oxford focuses on B
 - **Always eager to:** Build my skills in biostatistics, computational science, and create socially-minded change
 
 ---
+## 📚 My Research & Travel Blog 
+
+Follow my summer research adventures and reflections: 
+
+👉 [lydiaowens.github.io](https://lydiaowens.github.io)
+---
 
 ## 📫 Let's connect!
 
