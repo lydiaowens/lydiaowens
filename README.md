@@ -26,7 +26,7 @@ My current work as a student researcher at the University of Oxford focuses on B
 
 Follow my summer research adventures and reflections: 
 
-👉 [lydiaowens.github.io](https://lydiaowens.github.io)
+👉 https://lydiaowens.github.io
 ---
 
 ## 📫 Let's connect!
