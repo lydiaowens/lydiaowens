@@ -2,8 +2,8 @@
 
 🎓 **Junior Biostatistics and Mathematics Double Major, minoring in Data Science**  
 🏫 University of North Carolina at Chapel Hill | Morehead Cain Scholar | Barry Goldwater Scholar  
-💻 Currently interning at the University of Oxford's Machine Learning and Global Health Network <br>
-💻 Next up this summer: Research and Study Abroad at Seoul National University 
+💻 Currently interning at Duke University School of Medicine  <br>
+💻 Next Up: Interning at Harvard T.H. Chan School of Public Health Department of Biostatistics 
 
 ---
 
@@ -13,18 +13,24 @@ Hello! My name is Lydia Owens, and I am an aspiring public health professional p
 
 As a biostatistics student at UNC and a student researcher at Duke, I've completed multiple projects related to infectious disease modeling, agent-based modeling, COVID-19, HIV, justice-involved population research, and health interventions.
 
-My current work as a student researcher at the University of Oxford focuses on Bayesian spatio-temporal models for infectious disease mapping. I'm also running a research/travel blog where I share my experiences and insights.
+My current research projects are: 
+
+- University of Oxford: focuses on Bayesian spatio-temporal models for infectious disease mapping. 
+- Duke: Understanding the relationship between telomere length and cumulative head impact index. 
+- UNC Chapel Hill: cross-validation study on AI Tuberculosis (TB) project in Lesotho. 
+
+I'm also running a research/travel blog where I share my experiences and insights.
 
 ### 🌱 Interests & Learning Goals
 
-- **Coding:** R, Python (learning NumPyro)
+- **Coding:** R, Python, SAS 
 - **Topics:** Mathematical modeling, causal inference, Bayesian methodologies, time series analysis, global health, health policy
 - **Always eager to:** Build my skills in biostatistics, computational science, and create socially-minded change
 
 ---
 ## 📚 My Research & Travel Blog 
 
-Follow my summer research adventures and reflections: 
+Follow my travel research adventures and reflections: 
 
 👉 https://lydiaowens.github.io
 ---
